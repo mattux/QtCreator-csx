@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2014 Matteo Pani <andovais@gmail.com>
+This work is free. You can redistribute it and/or modify it under the
+terms of the Do What The Fuck You Want To Public License, Version 2,
+as published by Sam Hocevar. See the COPYING file for more details.
+-->
+<style-scheme version="1.0" name="desert">
+  <style name="Text" foreground="#ECECEC" background="#333333"/>
+  <style name="Link" foreground="#CD5C52"/>
+  <style name="Selection" foreground="#F0E686" background="#6B8E23"/>
+  <style name="LineNumber" foreground="#FFFF00" background="#333333"/>
+  <style name="SearchResult" foreground="#000000" background="#FFA0A0"/>
+  <style name="SearchScope" foreground="#ECECEC" background="#333333"/>
+  <style name="Parentheses" foreground="#ECECEC" background="#008B8B" bold="true"/>
+  <style name="CurrentLine" foreground="#ECECEC" background="#222222"/>
+  <style name="CurrentLineNumber" foreground="#FFFF00" bold="true"/>
+  <style name="Occurrences" foreground="#ECECEC" background="#BDB766"/>
+  <style name="Occurrences.Unused" foreground="#BDB766"/>
+  <style name="Occurrences.Rename" foreground="#000000" background="#FFA0A0"/>
+  <style name="Number" foreground="#FFA0A0"/>
+  <style name="String" foreground="#FFA0A0"/>
+  <style name="Type" foreground="#BDB766"/>
+  <style name="Local" foreground="#ECECEC"/>
+  <style name="Field" foreground="#FFFFFF"/>
+  <style name="Static" foreground="#F0E68C"/>
+  <style name="VirtualMethod" foreground="#F0E68C" italic="true"/>
+  <style name="Function" foreground="#ECECEC"/>
+  <style name="Keyword" foreground="#F0E68C"/>
+  <style name="Operator" foreground="#FFFFFF"/>
+  <style name="Preprocessor" foreground="#CD5C52"/>
+  <style name="Label" foreground="#ECECEC" bold="true"/>
+  <style name="Comment" foreground="#87CEEB"/>
+  <style name="Doxygen.Comment" foreground="#87CEEB"/>
+  <style name="Doxygen.Tag" foreground="#87CEEB" italic="true"/>
+  <style name="VisualWhitespace" foreground="#EFB78B"/>
+  <style name="QmlLocalId" foreground="#ECECEC" italic="true"/>
+  <style name="QmlExternalId" foreground="#F0E68C" italic="true"/>
+  <style name="QmlTypeId" foreground="#BDB766"/>
+  <style name="QmlRootObjectProperty" foreground="#ECECEC" italic="true"/>
+  <style name="QmlScopeObjectProperty" foreground="#ECECEC" italic="true"/>
+  <style name="QmlExternalObjectProperty" foreground="#F0E68C" italic="true"/>
+  <style name="JsScopeVar" foreground="#F0E68C" italic="true"/>
+  <style name="JsImportVar" foreground="#BDB766" italic="true"/>
+  <style name="JsGlobalVar" foreground="#BDB766" italic="true"/>
+  <style name="QmlStateName" foreground="#ECECEC" italic="true"/>
+  <style name="Binding" foreground="#BDB766"/>
+  <style name="DisabledCode" foreground="#ECECEC" background="#555555"/>
+  <style name="AddedLine" foreground="#CD853F"/>
+  <style name="RemovedLine" foreground="#CD5C5C"/>
+  <style name="DiffFile" foreground="#98FB7F"/>
+  <style name="DiffLocation" foreground="#F0E68C"/>
+  <style name="DiffFileLine" background="#706B3E"/>
+  <style name="DiffContextLine" background="#958B34"/>
+  <style name="DiffSourceLine" background="#8E5528"/>
+  <style name="DiffSourceChar" background="#703030"/>
+  <style name="DiffDestLine" background="#40533B"/>
+  <style name="DiffDestChar" background="#51684B"/>
+</style-scheme>
