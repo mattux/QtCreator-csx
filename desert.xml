@@ -10,14 +10,14 @@ as published by Sam Hocevar. See the COPYING file for more details.
   <style name="Link" foreground="#CD5C52"/>
   <style name="Selection" foreground="#F0E686" background="#6B8E23"/>
   <style name="LineNumber" foreground="#FFFF00" background="#333333"/>
-  <style name="SearchResult" foreground="#000000" background="#FFA0A0"/>
+  <style name="SearchResult" foreground="#000000" background="#965327"/>
   <style name="SearchScope" foreground="#ECECEC" background="#333333"/>
   <style name="Parentheses" foreground="#ECECEC" background="#008B8B" bold="true"/>
   <style name="CurrentLine" foreground="#ECECEC" background="#222222"/>
   <style name="CurrentLineNumber" foreground="#FFFF00" bold="true"/>
   <style name="Occurrences" foreground="#ECECEC" background="#BDB766"/>
   <style name="Occurrences.Unused" foreground="#BDB766"/>
-  <style name="Occurrences.Rename" foreground="#000000" background="#FFA0A0"/>
+  <style name="Occurrences.Rename" foreground="#000000" background="#965327"/>
   <style name="Number" foreground="#FFA0A0"/>
   <style name="String" foreground="#FFA0A0"/>
   <style name="Type" foreground="#BDB766"/>
