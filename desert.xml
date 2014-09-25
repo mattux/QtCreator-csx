@@ -20,6 +20,7 @@ as published by Sam Hocevar. See the COPYING file for more details.
   <style name="Occurrences.Rename" foreground="#000000" background="#965327"/>
   <style name="Number" foreground="#FFA0A0"/>
   <style name="String" foreground="#FFA0A0"/>
+  <style name="PrimitiveType" foreground="#BDB766"/>
   <style name="Type" foreground="#BDB766"/>
   <style name="Local" foreground="#ECECEC"/>
   <style name="Field" foreground="#FFFFFF"/>
